@@ -13,7 +13,7 @@ I was struggling on positioning the background on the `body`, if you have a bett
 ## Feedback and Live Review
 
 Feel free to give [feedback]() to me on Frontend Mentor and here is
-[live review]()
+[live review](https://profile-card-component-vs.netlify.app/)
 
 ## Tools
 
