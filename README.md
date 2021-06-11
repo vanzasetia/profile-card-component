@@ -8,7 +8,7 @@ computer or laptop ☺️.
 
 ## Development
 
-I was struggling on positioning the background on the `body`, if you have a better solution you can [contact me](venusbumi2@gmail.com) or give me your recommendation on [Frontend Mentor]()
+I was struggling on positioning the background on the `body`, if you have a better solution you can [contact me](https://github.com/vanzasetia) or give me your recommendation on [Frontend Mentor]()
 
 ## Feedback and Live Review
 
