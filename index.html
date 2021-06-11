@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <!--
+  <script src="//cdn.jsdelivr.net/npm/eruda"></script>
+  <script>
+    eruda.init();
+  </script>
+  -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+      integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Frontend Mentor | Profile card component</title>
+  </head>
+  <body>
+    <main>
+      <!-- Card -->
+      <div class="card">
+        <!-- Card Image -->
+        <div class="card__image">
+          <img
+            src="./images/bg-pattern-card.svg"
+            alt="pattern"
+            class="card__bg"
+          />
+        </div>
+        <!-- End of Card Image -->
+        <!-- Person -->
+        <figure class="card__figure person">
+          <img
+            src="./images/image-victor.jpg"
+            alt="Victor Crest"
+            class="person__img"
+          />
+          <figcaption class="person__figcaption">
+            <h3 class="person__name">
+              Victor Crest <span class="person__age">26</span>
+            </h3>
+            <p class="person__city">London</p>
+          </figcaption>
+        </figure>
+        <!-- End of Person -->
+        <!-- Stats -->
+        <section class="card__stats stats">
+          <ul class="stats__list">
+            <li class="stats__item">
+              <h3 class="stats__number">80K</h3>
+              <p class="stats__desc">Followers</p>
+            </li>
+            <li class="stats__item">
+              <h3 class="stats__number">803K</h3>
+              <p class="stats__desc">Likes</p>
+            </li>
+            <li class="stats__item">
+              <h3 class="stats__number">1.4K</h3>
+              <p class="stats__desc">Photos</p>
+            </li>
+          </ul>
+        </section>
+        <!-- End of Stats -->
+      </div>
+      <!-- End of Card -->
+    </main>
+  </body>
+</html>
