@@ -6,9 +6,9 @@ Coded by [me](https://www.frontendmentor.io/profile/vanzasetia), using
 📱Android Phone! The reason for that is because I don't have any
 computer or laptop ☺️.
 
-## Development
+## Acknowledgment
 
-I was struggling on positioning the background on the `body`, if you have a better solution you can [contact me](https://github.com/vanzasetia) or give me your recommendation on [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-html5-css3-sass-Za00rhMVw)
+I used [the ApplePieGiraffe code to align the background images](https://www.frontendmentor.io/solutions/card-component-with-3d-animation-t0NqrfqMT). It worked really well in my opinion.
 
 ## Feedback and Live Review
 
